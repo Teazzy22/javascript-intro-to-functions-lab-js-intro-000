@@ -20,6 +20,6 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  string.toLowerCase)() === whisper(string)
+  string.toLowerCase() === whisper(string)
   return 'I can\'t hear you!'
 }
